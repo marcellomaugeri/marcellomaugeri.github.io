@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Marcello Maugeri</title>
+    <link>https://marcellomaugeri.github.io/project/</link>
+      <atom:link href="https://marcellomaugeri.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcellomaugeri.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://marcellomaugeri.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Do a Shot (iOS app)</title>
+      <link>https://marcellomaugeri.github.io/project/doashot/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/doashot/</guid>
+      <description>&lt;p&gt;Do you need to create the right atmosphere and break the ice with people you don&amp;rsquo;t know or are you just going to spend the evening at home with friends, avoiding being on the sofa to watch yet another movie while munching popcorn? ou can have fun even without drinking, but why risk it? Do a shot is the drinking game you were looking for! Enter the name of the players, choose one or more game modes and I&amp;rsquo;ll take care of the rest!You will only have to drink, have fun and carry out my instructions, sometimes a little bit bad and embarrassing&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dragomanni Apartments</title>
+      <link>https://marcellomaugeri.github.io/project/dragomanni/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/dragomanni/</guid>
+      <description>&lt;p&gt;Apartments with garden for rent in the historic centre of Florence, in Via de’ Guicciardini, inside Palazzo Dragomanni. Between Ponte Vecchio and Palazzo Pitti there are two beautiful apartments with contemporary furnishings and fine finishes immersed in an oasis of tranquillity, completely renovated and intended for short or medium-term rental. These apartments represent a rarity also considering the large private garden of 400 smq at their disposal and their strategic location in the historical centre of the city. The stay is assured in absolute silence, surrounded by nature, art and culture. Palazzo Dragomanni is crossed by the Vasari Corridor that connects Palazzo Vecchio, the Uffizi and Palazzo Pitti. The two apartments are less than 100 m from Ponte Vecchio, Palazzo Pitti and the Boboli Gardens. Florence is a small enough city to be admired walking with tranquility.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distantia (iOS app)</title>
+      <link>https://marcellomaugeri.github.io/project/distantia/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/distantia/</guid>
+      <description>&lt;p&gt;It has been named &amp;lsquo;Distantia&amp;rsquo; and will automatically detect compliance with the safety distance between people. The app was developed by students Fabrizio Billeci, Giuseppe Criscione and Marcello Maugeri in response to a call published by the University of Catania&amp;rsquo;s Department of Mathematics and Informatics&#39; lecturers Sebastiano Battiato (delegate for Information Systems and Strategic Planning) and Filippo Stanco (delegate for Communication).&lt;/p&gt;
+&lt;p&gt;The &amp;lsquo;Distantia&amp;rsquo; app, in full respect of privacy, once installed on one&amp;rsquo;s mobile phone, automatically detects the presence of other devices via the Bluetooth signal, signalling with a special sound signal any excessive proximity. The intensity of the signal, in fact, allows an approximate estimate of the relative distance, acting as a &amp;lsquo;rigorous&amp;rsquo; and highly effective controller in future primary and secondary prevention strategies in the health and social spheres.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
