@@ -65,10 +65,10 @@
   
     
   
-  <meta name="description" content="Fuzzing has become one of the best-established methods to uncover software bugs. Meanwhile, the market of embedded systems, which binds the software execution tightly to the very hardware architecture, has grown at a steady pace, and that pace is anticipated to become yet more sustained in the near future. Embedded systems also beneft from fuzzing, but the innumerable existing architectures and hardware peripherals complicate the development of general and usable approaches, hence a plethora of tools have recently appeared. Here comes a stringent need for a systematic review in the area of fuzzing approaches for embedded systems, which we term “embedded fuzzing” for brevity. The inclusion criteria chosen in this article are semi-objective in their coverage of the most relevant publication venues as well as of our personal judgement. The review rests on a formal defnition we develop to represent the realm of embedded fuzzing. It continues by discussing the approaches that satisfy the inclusion criteria, then defnes the relevant elements of comparison and groups the approaches according to how the execution environment is served to the system under test. The resulting review produces a table with 42 entries, which in turn supports discussion suggesting vast room for future research due to the limitations noted." />
+  <meta name="description" content="Fuzz testing (or fuzzing) is an effective technique used to find security vulnerabilities. It consists of feeding a software under test with malformed inputs, waiting for a weird system behaviour (often a crash of the system). Over the years, different approaches have been developed, and among the most popular lies the coverage-based one. It relies on the instrumentation of the system to generate inputs able to cover as much code as possible. The success of this approach is also due to its usability as fuzzing techniques research approaches that do not require (or only partial require) human interactions. Despite the efforts, devising a fully-automated fuzzer still seems to be a challenging task. Target systems may be very complex; they may integrate cryptographic primitives, compute and verify check-sums and employ forks to enhance the system security, achieve better performances or manage different connections at the same time. This paper introduces the fork-awareness property to express the fuzzer ability to manage systems using forks. This property is leveraged to evaluate 14 of the most widely coverage-guided fuzzers and highlight how current fuzzers are ineffective against systems using forks." />
 
   
-  <link rel="alternate" hreflang="en" href="https://marcellomaugeri.github.io/publication/embedded/" />
+  <link rel="alternate" hreflang="en" href="https://marcellomaugeri.github.io/publication/2-forkawareness/" />
 
   
   
@@ -283,7 +283,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu988aa4f344c6631f9ef1f63a8f96c895_2683_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu988aa4f344c6631f9ef1f63a8f96c895_2683_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://marcellomaugeri.github.io/publication/embedded/" />
+  <link rel="canonical" href="https://marcellomaugeri.github.io/publication/2-forkawareness/" />
 
   
   
@@ -305,10 +305,10 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Marcello Maugeri" />
-  <meta property="og:url" content="https://marcellomaugeri.github.io/publication/embedded/" />
-  <meta property="og:title" content="Embedded fuzzing: a review of challenges, tools, and solutions | Marcello Maugeri" />
-  <meta property="og:description" content="Fuzzing has become one of the best-established methods to uncover software bugs. Meanwhile, the market of embedded systems, which binds the software execution tightly to the very hardware architecture, has grown at a steady pace, and that pace is anticipated to become yet more sustained in the near future. Embedded systems also beneft from fuzzing, but the innumerable existing architectures and hardware peripherals complicate the development of general and usable approaches, hence a plethora of tools have recently appeared. Here comes a stringent need for a systematic review in the area of fuzzing approaches for embedded systems, which we term “embedded fuzzing” for brevity. The inclusion criteria chosen in this article are semi-objective in their coverage of the most relevant publication venues as well as of our personal judgement. The review rests on a formal defnition we develop to represent the realm of embedded fuzzing. It continues by discussing the approaches that satisfy the inclusion criteria, then defnes the relevant elements of comparison and groups the approaches according to how the execution environment is served to the system under test. The resulting review produces a table with 42 entries, which in turn supports discussion suggesting vast room for future research due to the limitations noted." /><meta property="og:image" content="https://marcellomaugeri.github.io/publication/embedded/featured.png" />
-    <meta property="twitter:image" content="https://marcellomaugeri.github.io/publication/embedded/featured.png" /><meta property="og:locale" content="en" />
+  <meta property="og:url" content="https://marcellomaugeri.github.io/publication/2-forkawareness/" />
+  <meta property="og:title" content="Evaluating the Fork-Awareness of Coverage-Guided Fuzzers | Marcello Maugeri" />
+  <meta property="og:description" content="Fuzz testing (or fuzzing) is an effective technique used to find security vulnerabilities. It consists of feeding a software under test with malformed inputs, waiting for a weird system behaviour (often a crash of the system). Over the years, different approaches have been developed, and among the most popular lies the coverage-based one. It relies on the instrumentation of the system to generate inputs able to cover as much code as possible. The success of this approach is also due to its usability as fuzzing techniques research approaches that do not require (or only partial require) human interactions. Despite the efforts, devising a fully-automated fuzzer still seems to be a challenging task. Target systems may be very complex; they may integrate cryptographic primitives, compute and verify check-sums and employ forks to enhance the system security, achieve better performances or manage different connections at the same time. This paper introduces the fork-awareness property to express the fuzzer ability to manage systems using forks. This property is leveraged to evaluate 14 of the most widely coverage-guided fuzzers and highlight how current fuzzers are ineffective against systems using forks." /><meta property="og:image" content="https://marcellomaugeri.github.io/publication/2-forkawareness/featured.png" />
+    <meta property="twitter:image" content="https://marcellomaugeri.github.io/publication/2-forkawareness/featured.png" /><meta property="og:locale" content="en" />
   
     
       <meta
@@ -316,7 +316,7 @@
         content="2022-09-02T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-03-25T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-02-24T00:00:00&#43;00:00">
   
 
   
@@ -338,20 +338,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://marcellomaugeri.github.io/publication/embedded/"
+    "@id": "https://marcellomaugeri.github.io/publication/2-forkawareness/"
   },
-  "headline": "Embedded fuzzing: a review of challenges, tools, and solutions",
+  "headline": "Evaluating the Fork-Awareness of Coverage-Guided Fuzzers",
   
   "image": [
-    "https://marcellomaugeri.github.io/publication/embedded/featured.png"
+    "https://marcellomaugeri.github.io/publication/2-forkawareness/featured.png"
   ],
   
   "datePublished": "2022-09-02T00:00:00Z",
-  "dateModified": "2022-03-25T00:00:00Z",
+  "dateModified": "2023-02-24T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Max Eisele"
+    "name": "Marcello Maugeri"
   },
   
   "publisher": {
@@ -362,7 +362,7 @@
       "url": "https://marcellomaugeri.github.io/media/icon_hu988aa4f344c6631f9ef1f63a8f96c895_2683_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Fuzzing has become one of the best-established methods to uncover software bugs. Meanwhile, the market of embedded systems, which binds the software execution tightly to the very hardware architecture, has grown at a steady pace, and that pace is anticipated to become yet more sustained in the near future. Embedded systems also beneft from fuzzing, but the innumerable existing architectures and hardware peripherals complicate the development of general and usable approaches, hence a plethora of tools have recently appeared. Here comes a stringent need for a systematic review in the area of fuzzing approaches for embedded systems, which we term “embedded fuzzing” for brevity. The inclusion criteria chosen in this article are semi-objective in their coverage of the most relevant publication venues as well as of our personal judgement. The review rests on a formal defnition we develop to represent the realm of embedded fuzzing. It continues by discussing the approaches that satisfy the inclusion criteria, then defnes the relevant elements of comparison and groups the approaches according to how the execution environment is served to the system under test. The resulting review produces a table with 42 entries, which in turn supports discussion suggesting vast room for future research due to the limitations noted."
+  "description": "Fuzz testing (or fuzzing) is an effective technique used to find security vulnerabilities. It consists of feeding a software under test with malformed inputs, waiting for a weird system behaviour (often a crash of the system). Over the years, different approaches have been developed, and among the most popular lies the coverage-based one. It relies on the instrumentation of the system to generate inputs able to cover as much code as possible. The success of this approach is also due to its usability as fuzzing techniques research approaches that do not require (or only partial require) human interactions. Despite the efforts, devising a fully-automated fuzzer still seems to be a challenging task. Target systems may be very complex; they may integrate cryptographic primitives, compute and verify check-sums and employ forks to enhance the system security, achieve better performances or manage different connections at the same time. This paper introduces the fork-awareness property to express the fuzzer ability to manage systems using forks. This property is leveraged to evaluate 14 of the most widely coverage-guided fuzzers and highlight how current fuzzers are ineffective against systems using forks."
 }
 </script>
 
@@ -378,11 +378,11 @@
 
 
 
-  <title>Embedded fuzzing: a review of challenges, tools, and solutions | Marcello Maugeri</title>
+  <title>Evaluating the Fork-Awareness of Coverage-Guided Fuzzers | Marcello Maugeri</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b60be9488166588d32b9a90c88820572" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c32a3c0142126f66ec944be91e5504c7" >
 
   
   
@@ -742,7 +742,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Embedded fuzzing: a review of challenges, tools, and solutions</h1>
+  <h1>Evaluating the Fork-Awareness of Coverage-Guided Fuzzers</h1>
 
   
 
@@ -758,12 +758,11 @@
   <div>
     
 
-  <span >
-      Max Eisele</span>, <span class="author-highlighted">
+  <span class="author-highlighted">
       Marcello Maugeri</span>, <span >
-      Rachna Shriwas</span>, <span >
-      Christopher Huth</span>, <span >
-      Giampaolo Bella</span>
+      Cristian Daniele</span>, <span >
+      Giampaolo Bella</span>, <span >
+      Erik Poll</span>
   </div>
   
   
@@ -774,7 +773,7 @@
     
       
     
-    March, 2022
+    February, 2023
   </span>
   
 
@@ -814,14 +813,14 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://cybersecurity.springeropen.com/articles/10.1186/s42400-022-00123-y" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/pdf/2301.05060.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/embedded/cite.bib">
+        data-filename="/publication/2-forkawareness/cite.bib">
   Cite
 </a>
 
@@ -831,13 +830,21 @@
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://www.insticc.org/Primoris/Resources/PaperPresentation.ashx?idPaper=mM52&#43;eI5MBQ=" target="_blank" rel="noopener">
+  Poster
+</a>
 
 
 
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.1186/s42400-022-00123-y" target="_blank" rel="noopener">
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.48550/arXiv.2301.05060" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -849,9 +856,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 263px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 509px;">
   <div style="position: relative">
-    <img src="/publication/embedded/featured_hue4fb69f5b1f13734af165672cc9639e4_308648_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="263" alt="" class="featured-image">
+    <img src="/publication/2-forkawareness/featured_hu7f0ca74ea1ba7e20b63d0d8553c93119_929772_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="509" alt="" class="featured-image">
     
   </div>
 </div>
@@ -862,7 +869,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Fuzzing has become one of the best-established methods to uncover software bugs. Meanwhile, the market of embedded systems, which binds the software execution tightly to the very hardware architecture, has grown at a steady pace, and that pace is anticipated to become yet more sustained in the near future. Embedded systems also beneft from fuzzing, but the innumerable existing architectures and hardware peripherals complicate the development of general and usable approaches, hence a plethora of tools have recently appeared. Here comes a stringent need for a systematic review in the area of fuzzing approaches for embedded systems, which we term “embedded fuzzing” for brevity. The inclusion criteria chosen in this article are semi-objective in their coverage of the most relevant publication venues as well as of our personal judgement. The review rests on a formal defnition we develop to represent the realm of embedded fuzzing. It continues by discussing the approaches that satisfy the inclusion criteria, then defnes the relevant elements of comparison and groups the approaches according to how the execution environment is served to the system under test. The resulting review produces a table with 42 entries, which in turn supports discussion suggesting vast room for future research due to the limitations noted.</p>
+    <p class="pub-abstract">Fuzz testing (or fuzzing) is an effective technique used to find security vulnerabilities. It consists of feeding a software under test with malformed inputs, waiting for a weird system behaviour (often a crash of the system). Over the years, different approaches have been developed, and among the most popular lies the coverage-based one. It relies on the instrumentation of the system to generate inputs able to cover as much code as possible. The success of this approach is also due to its usability as fuzzing techniques research approaches that do not require (or only partial require) human interactions. Despite the efforts, devising a fully-automated fuzzer still seems to be a challenging task. Target systems may be very complex; they may integrate cryptographic primitives, compute and verify check-sums and employ forks to enhance the system security, achieve better performances or manage different connections at the same time. This paper introduces the fork-awareness property to express the fuzzer ability to manage systems using forks. This property is leveraged to evaluate 14 of the most widely coverage-guided fuzzers and highlight how current fuzzers are ineffective against systems using forks.</p>
     
 
     
@@ -873,8 +880,8 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#1">
+              Conference paper
             </a>
           </div>
         </div>
@@ -890,7 +897,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Springer CyberSecurity</div>
+          <div class="col-12 col-md-9">ICISSP 2023</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -909,13 +916,11 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/embedded-systems/">Embedded systems</a>
+  <a class="badge badge-light" href="/tag/fuzzing/">Fuzzing</a>
   
-  <a class="badge badge-light" href="/tag/dynamic-analysis/">Dynamic analysis</a>
+  <a class="badge badge-light" href="/tag/fork/">Fork</a>
   
-  <a class="badge badge-light" href="/tag/vulnerability-mining/">Vulnerability mining</a>
-  
-  <a class="badge badge-light" href="/tag/embedded-security/">Embedded security</a>
+  <a class="badge badge-light" href="/tag/security-testing/">Security Testing</a>
   
   <a class="badge badge-light" href="/tag/software-security/">Software security</a>
   
@@ -934,12 +939,6 @@
 
 
   
-  
-    
-
-
-
-
   
     
 
@@ -1159,19 +1158,7 @@
 
 
 
-  <p class="powered-by">
-    
-    
-    
-      
-      
-      
-      
-      
-      
-      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
-    
-  </p>
+
 </footer>
 
     </div>
