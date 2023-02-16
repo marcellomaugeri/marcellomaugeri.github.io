@@ -5,12 +5,28 @@
     <link>https://marcellomaugeri.github.io/</link>
       <atom:link href="https://marcellomaugeri.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcello Maugeri</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Wed, 25 May 2022 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://marcellomaugeri.github.io/media/icon_hu988aa4f344c6631f9ef1f63a8f96c895_2683_512x512_fill_lanczos_center_3.png</url>
       <title>Marcello Maugeri</title>
       <link>https://marcellomaugeri.github.io/</link>
     </image>
+    
+    <item>
+      <title>Evaluating the Fork-Awareness of Coverage-Guided Fuzzers</title>
+      <link>https://marcellomaugeri.github.io/publication/forkawareness/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publication/forkawareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSF22 - The 2022 Workshop on Security Frameworks &#34;Security Testing&#34;</title>
+      <link>https://marcellomaugeri.github.io/talk/wsf22-the-2022-workshop-on-security-frameworks-security-testing/</link>
+      <pubDate>Tue, 20 Dec 2022 15:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/talk/wsf22-the-2022-workshop-on-security-frameworks-security-testing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hardening Six - The AvA event</title>

@@ -2,8 +2,8 @@
   "name": "Marcello Maugeri",
   "short_name": "Marcello Maugeri",
   "lang": "en",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "rgb(11, 61, 145)",
+  "background_color": "rgb(11, 61, 145)",
   "icons": [{
     "src": "/media/icon_hu988aa4f344c6631f9ef1f63a8f96c895_2683_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security Testing | Marcello Maugeri</title>
+    <link>https://marcellomaugeri.github.io/tag/security-testing/</link>
+      <atom:link href="https://marcellomaugeri.github.io/tag/security-testing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Security Testing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcellomaugeri.github.io/media/icon_hu988aa4f344c6631f9ef1f63a8f96c895_2683_512x512_fill_lanczos_center_3.png</url>
+      <title>Security Testing</title>
+      <link>https://marcellomaugeri.github.io/tag/security-testing/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Fork-Awareness of Coverage-Guided Fuzzers</title>
+      <link>https://marcellomaugeri.github.io/publication/forkawareness/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publication/forkawareness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
