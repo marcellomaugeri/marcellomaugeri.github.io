@@ -5,7 +5,7 @@
     <link>https://marcellomaugeri.github.io/en/event/</link>
       <atom:link href="https://marcellomaugeri.github.io/en/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 29 Sep 2023 10:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Fri, 29 Sep 2023 09:40:00 +0000</lastBuildDate>
     <image>
       <url>https://marcellomaugeri.github.io/media/icon_hu988aa4f344c6631f9ef1f63a8f96c895_2683_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
@@ -15,7 +15,7 @@
     <item>
       <title>SecAssure - Forkfuzz: Leveraging the Fork-Awareness in Coverage-Guided Fuzzing</title>
       <link>https://marcellomaugeri.github.io/en/talk/secassure-forkfuzz-leveraging-the-fork-awareness-in-coverage-guided-fuzzing/</link>
-      <pubDate>Fri, 29 Sep 2023 10:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Sep 2023 09:40:00 +0000</pubDate>
       <guid>https://marcellomaugeri.github.io/en/talk/secassure-forkfuzz-leveraging-the-fork-awareness-in-coverage-guided-fuzzing/</guid>
       <description></description>
     </item>
