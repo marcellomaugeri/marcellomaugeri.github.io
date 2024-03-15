@@ -5,12 +5,20 @@
     <link>https://marcellomaugeri.github.io/en/publication/</link>
       <atom:link href="https://marcellomaugeri.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en</language><lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://marcellomaugeri.github.io/media/icon_hu988aa4f344c6631f9ef1f63a8f96c895_2683_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://marcellomaugeri.github.io/en/publication/</link>
     </image>
+    
+    <item>
+      <title>Wendigo: Deep Reinforcement Learning for Denial-of-Service Query Discovery in GraphQL</title>
+      <link>https://marcellomaugeri.github.io/en/publication/5-wendigo/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/en/publication/5-wendigo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fuzzing Matter(s): A White Paper for Fuzzing the Matter Protocol</title>

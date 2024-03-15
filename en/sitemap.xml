@@ -3,7 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://marcellomaugeri.github.io/en/publication-type/1/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/tag/deep-neural-network/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/tag/denial-of-service-attack/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/tag/network-security/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/publication_types/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/publication/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/tag/reinforcement-learning/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/tags/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/publication/5-wendigo/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://marcellomaugeri.github.io/en/tag/fuzzing/</loc>
@@ -18,24 +54,16 @@
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://marcellomaugeri.github.io/en/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://marcellomaugeri.github.io/en/publication_types/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://marcellomaugeri.github.io/en/publication/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://marcellomaugeri.github.io/en/tag/security-testing/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://marcellomaugeri.github.io/en/tags/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <loc>https://marcellomaugeri.github.io/en/talk/icissp-2024-fuzzing-matters-a-white-paper-for-fuzzing-the-matter-protocol/</loc>
+    <lastmod>2024-02-26T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://marcellomaugeri.github.io/en/event/</loc>
+    <lastmod>2024-02-26T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://marcellomaugeri.github.io/en/tag/automated-vulnerability-testing/</loc>
@@ -67,10 +95,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://marcellomaugeri.github.io/en/talk/secassure-forkfuzz-leveraging-the-fork-awareness-in-coverage-guided-fuzzing/</loc>
-    <lastmod>2023-09-29T09:40:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://marcellomaugeri.github.io/en/event/</loc>
     <lastmod>2023-09-29T09:40:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
