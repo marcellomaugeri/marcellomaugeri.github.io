@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IOS App | Marcello Maugeri</title>
+    <link>https://marcellomaugeri.github.io/tags/ios-app/</link>
+      <atom:link href="https://marcellomaugeri.github.io/tags/ios-app/index.xml" rel="self" type="application/rss+xml" />
+    <description>IOS App</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcellomaugeri.github.io/media/logo.svg</url>
+      <title>IOS App</title>
+      <link>https://marcellomaugeri.github.io/tags/ios-app/</link>
+    </image>
+    
+    <item>
+      <title>Fantamaniaci (iOS)</title>
+      <link>https://marcellomaugeri.github.io/project/fantamaniaci/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/fantamaniaci/</guid>
+      <description>&lt;p&gt;Fantamaniaci was a football news app available in the app store, designed and developed by me in Swift as a freelancer in the Codedix team.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Do a Shot (iOS)</title>
+      <link>https://marcellomaugeri.github.io/project/doashot/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/doashot/</guid>
+      <description>&lt;p&gt;Do a Shot was a drinking game available in the app store, redesigned and developed by me in Swift as a freelancer in the Codedix team.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Distantia</title>
+      <link>https://marcellomaugeri.github.io/project/distantia/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/distantia/</guid>
+      <description>&lt;p&gt;Distantia is an iOS app that allows users to maintaining social distance during the Covid-19 pandemic through BLE RSSI distance estimation. The app was developed using Swift and patented by the University of Catania.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

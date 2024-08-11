@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Marcello Maugeri</title>
+    <link>https://marcellomaugeri.github.io/publication_types/paper-conference/</link>
+      <atom:link href="https://marcellomaugeri.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcellomaugeri.github.io/media/logo.svg</url>
+      <title>Paper-Conference</title>
+      <link>https://marcellomaugeri.github.io/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>User-Empowered Federated Learning in Automotive</title>
+      <link>https://marcellomaugeri.github.io/publications/6-userempowered/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/6-userempowered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wendigo: Deep Reinforcement Learning for Denial-of-Service Query Discovery in GraphQL</title>
+      <link>https://marcellomaugeri.github.io/publications/5-wendigo/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/5-wendigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzing Matter(s): A White Paper for Fuzzing the Matter Protocol</title>
+      <link>https://marcellomaugeri.github.io/publications/4-fuzzingmatter/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/4-fuzzingmatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forkfuzz: Leveraging the Fork-Awareness in Coverage-Guided Fuzzing</title>
+      <link>https://marcellomaugeri.github.io/publications/3-forkfuzz/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/3-forkfuzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Fork-Awareness of Coverage-Guided Fuzzers</title>
+      <link>https://marcellomaugeri.github.io/publications/2-forkawareness/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/2-forkawareness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

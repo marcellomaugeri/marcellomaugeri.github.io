@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Marcello Maugeri</title>
+    <link>https://marcellomaugeri.github.io/project/</link>
+      <atom:link href="https://marcellomaugeri.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcellomaugeri.github.io/media/logo.svg</url>
+      <title>Projects</title>
+      <link>https://marcellomaugeri.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>*</title>
+      <link>https://marcellomaugeri.github.io/project/star/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/star/</guid>
+      <description>&lt;p&gt;The aim of the project is to design an efficient stateful fuzzing framework. The name is provisional. More details will be announced soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>α</title>
+      <link>https://marcellomaugeri.github.io/project/alpha/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/alpha/</guid>
+      <description>&lt;p&gt;The project aims to develop a fuzzing framework based on LibAFL for multi-process applications. The name is a placeholder and will be revealed after publication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Offensive Reinforcement Learning for GraphQL</title>
+      <link>https://marcellomaugeri.github.io/project/rlgraphql/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/rlgraphql/</guid>
+      <description>&lt;p&gt;The project aims to design offensive Reinforcement Learning agents to attack GraphQL APIs. The project is part of the research activities of the &lt;a href=&#34;https://github.com/isneslab&#34;&gt;iSNeS Lab&lt;/a&gt; at the King&amp;rsquo;s College London. Currently, Wendigo has been released for DoS attacks. The project is ongoing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fuzzing Matter(s)</title>
+      <link>https://marcellomaugeri.github.io/project/fuzzing-matter/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/fuzzing-matter/</guid>
+      <description>&lt;p&gt;Leading the project based on the paper &amp;ldquo;Fuzzing Matter(s): A White Paper for Fuzzing the Matter Protocol&amp;rdquo;, which aims to perform stateful fuzzing of Matter-enabled device.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PECS - Privacy Enrooted Car Systems</title>
+      <link>https://marcellomaugeri.github.io/project/pecs/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/pecs/</guid>
+      <description>&lt;p&gt;The PECS project aims to develop a privacy-preserving system for automotive environments. My work has been concentrating on the PECSo module, in particular the Federated Learning module.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Water Code</title>
+      <link>https://marcellomaugeri.github.io/project/thewatercode/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/thewatercode/</guid>
+      <description>&lt;p&gt;Agile managed the educational platform within the &amp;ldquo;The Water Code&amp;rdquo; project. The platform was developed using Flutter and Firebase.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fantamaniaci (iOS)</title>
+      <link>https://marcellomaugeri.github.io/project/fantamaniaci/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/fantamaniaci/</guid>
+      <description>&lt;p&gt;Fantamaniaci was a football news app available in the app store, designed and developed by me in Swift as a freelancer in the Codedix team.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dragomanni Apartments Website</title>
+      <link>https://marcellomaugeri.github.io/project/dragomanni/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/dragomanni/</guid>
+      <description>&lt;p&gt;Designed and developed the website for the Dragomanni Apartments in Florence, Italy. The website was developed using WordPress.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Do a Shot (iOS)</title>
+      <link>https://marcellomaugeri.github.io/project/doashot/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/doashot/</guid>
+      <description>&lt;p&gt;Do a Shot was a drinking game available in the app store, redesigned and developed by me in Swift as a freelancer in the Codedix team.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Distantia</title>
+      <link>https://marcellomaugeri.github.io/project/distantia/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/distantia/</guid>
+      <description>&lt;p&gt;Distantia is an iOS app that allows users to maintaining social distance during the Covid-19 pandemic through BLE RSSI distance estimation. The app was developed using Swift and patented by the University of Catania.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

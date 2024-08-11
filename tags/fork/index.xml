@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fork | Marcello Maugeri</title>
+    <link>https://marcellomaugeri.github.io/tags/fork/</link>
+      <atom:link href="https://marcellomaugeri.github.io/tags/fork/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fork</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcellomaugeri.github.io/media/logo.svg</url>
+      <title>Fork</title>
+      <link>https://marcellomaugeri.github.io/tags/fork/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Fork-Awareness of Coverage-Guided Fuzzers</title>
+      <link>https://marcellomaugeri.github.io/publications/2-forkawareness/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/2-forkawareness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

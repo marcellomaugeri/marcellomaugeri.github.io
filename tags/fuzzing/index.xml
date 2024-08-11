@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuzzing | Marcello Maugeri</title>
+    <link>https://marcellomaugeri.github.io/tags/fuzzing/</link>
+      <atom:link href="https://marcellomaugeri.github.io/tags/fuzzing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fuzzing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcellomaugeri.github.io/media/logo.svg</url>
+      <title>Fuzzing</title>
+      <link>https://marcellomaugeri.github.io/tags/fuzzing/</link>
+    </image>
+    
+    <item>
+      <title>*</title>
+      <link>https://marcellomaugeri.github.io/project/star/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/star/</guid>
+      <description>&lt;p&gt;The aim of the project is to design an efficient stateful fuzzing framework. The name is provisional. More details will be announced soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>α</title>
+      <link>https://marcellomaugeri.github.io/project/alpha/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/alpha/</guid>
+      <description>&lt;p&gt;The project aims to develop a fuzzing framework based on LibAFL for multi-process applications. The name is a placeholder and will be revealed after publication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fuzzing Matter(s): A White Paper for Fuzzing the Matter Protocol</title>
+      <link>https://marcellomaugeri.github.io/publications/4-fuzzingmatter/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/4-fuzzingmatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzing Matter(s)</title>
+      <link>https://marcellomaugeri.github.io/project/fuzzing-matter/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/fuzzing-matter/</guid>
+      <description>&lt;p&gt;Leading the project based on the paper &amp;ldquo;Fuzzing Matter(s): A White Paper for Fuzzing the Matter Protocol&amp;rdquo;, which aims to perform stateful fuzzing of Matter-enabled device.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Forkfuzz: Leveraging the Fork-Awareness in Coverage-Guided Fuzzing</title>
+      <link>https://marcellomaugeri.github.io/publications/3-forkfuzz/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/3-forkfuzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Fork-Awareness of Coverage-Guided Fuzzers</title>
+      <link>https://marcellomaugeri.github.io/publications/2-forkawareness/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/2-forkawareness/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

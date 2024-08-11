@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website | Marcello Maugeri</title>
+    <link>https://marcellomaugeri.github.io/tags/website/</link>
+      <atom:link href="https://marcellomaugeri.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <description>Website</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcellomaugeri.github.io/media/logo.svg</url>
+      <title>Website</title>
+      <link>https://marcellomaugeri.github.io/tags/website/</link>
+    </image>
+    
+    <item>
+      <title>Dragomanni Apartments Website</title>
+      <link>https://marcellomaugeri.github.io/project/dragomanni/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/dragomanni/</guid>
+      <description>&lt;p&gt;Designed and developed the website for the Dragomanni Apartments in Florence, Italy. The website was developed using WordPress.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy | Marcello Maugeri</title>
+    <link>https://marcellomaugeri.github.io/tags/privacy/</link>
+      <atom:link href="https://marcellomaugeri.github.io/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Privacy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcellomaugeri.github.io/media/logo.svg</url>
+      <title>Privacy</title>
+      <link>https://marcellomaugeri.github.io/tags/privacy/</link>
+    </image>
+    
+    <item>
+      <title>User-Empowered Federated Learning in Automotive</title>
+      <link>https://marcellomaugeri.github.io/publications/6-userempowered/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/publications/6-userempowered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PECS - Privacy Enrooted Car Systems</title>
+      <link>https://marcellomaugeri.github.io/project/pecs/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://marcellomaugeri.github.io/project/pecs/</guid>
+      <description>&lt;p&gt;The PECS project aims to develop a privacy-preserving system for automotive environments. My work has been concentrating on the PECSo module, in particular the Federated Learning module.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
