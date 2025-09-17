@@ -1,0 +1,284 @@
+---
+# Display name
+title:  Marcello Maugeri
+
+# Name pronunciation (optional)
+#name_pronunciation: Marcello Maugeri
+
+# Full name (for SEO)
+first_name: Marcello
+last_name: Maugeri
+
+# Status emoji
+#status:
+#  icon: ☕️
+
+# Is this the primary user of the site?
+superuser: true
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Role/position/tagline
+role: PhD Candidate in Computer Science
+
+# Organizations/Affiliations to display in Biography blox
+organizations:
+  - name: University of Catania
+    url: https://unict.it/
+
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:marcello.maugeri@phd.unict.it'
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/marcello-maugeri/
+  - icon: brands/github
+    url: https://github.com/marcellomaugeri
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=8G8_w_AAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-6585-5494
+  - icon: brands/instagram
+    url: https://www.instagram.com/marcello.maugeri/
+  - icon: brands/facebook
+    url: https://www.facebook.com/maray97/
+  - icon: brands/x
+    url: https://x.com/maray97
+
+interests:
+  - Fuzzing
+  - Systems Security
+  - Reinforcement Learning
+  - Security Testing
+  - IoT Security
+
+education:
+  - area: PhD in Computer Science (Expected Viva autumn 2025)
+    institution: University of Catania, Italy
+    date_start: 2021-10-01
+    date_end: 2025-09-01
+    summary: |
+      Dissertation Title - Automation Challenges and Solutions in Coverage-Guided Fuzzing of Multiprocess Software Systems.
+  - area: MSc Computer Science (Major - Cybersecurity and Distributed Systems)
+    institution: University of Catania, Italy
+    date_start: 2019-10-01
+    date_end: 2021-09-01
+    summary: |
+      Thesis Title - Shared Memory Fuzzing. (Grade 110/110 with honours)
+  - area: BSc Computer Science (Major - Networks and Cybersecurity)
+    institution: University of Catania, Italy
+    date_start: 2016-10-01
+    date_end: 2019-11-01
+    summary: |
+      Thesis Title - 3DCP Dynamic Domotic Device Configuration Protocol and Smart Hub. (Grade 110/110 with honours)
+      
+work:
+  - position: Teaching Assistant
+    company_name: University of Catania
+    company_url: 'https://unict.it'
+    company_logo: 'https://www.unict.it/sites/default/files/logo_unict.png'
+    date_start: 2024-03-01
+    date_end: 2024-07-01
+    summary: |
+      Took in-depth lessons of the following modules: 1) Programming 2 (25 hours) - OOP and Data Structures in C++, Complexity and Sorting Algorithms. 2) Fundamentals of Computer Science (25 hours) - Formal Languages, Computational Models, Logic.
+      100% of the attending students passed the exam on the first attempt.
+  - position: Research Engineer
+    company_name: University of Catania
+    company_url: 'https://unict.it'
+    company_logo: 'https://www.unict.it/sites/default/files/logo_unict.png'
+    date_start: 2024-01-01
+    date_end: 2024-06-01
+    summary: |
+      Developed the team proposal and won the NGI TrustChain Open Call #2 grant for the PECS project (117,000€).
+      Conducted a systematic review of current approaches to Federated Learning in the automotive domain.
+      Designed a Federated Learning approach using the Flower framework and released the source code.
+  - position: Visiting PhD Student
+    company_name: King's College London
+    company_url: 'https://kcl.ac.uk'
+    #company_logo: 'PLACEHOLDER_LOGO'
+    date_start: 2023-10-01
+    date_end: 2024-03-01
+    summary: |
+      Conducted research on GraphQL security testing, investigating Reinforcement Learning and Fuzzing approaches for enhanced vulnerability discovery.
+      Co-designed Wendigo, a Black-Box Deep Reinforcement Learning approach for identifying Denial-of-Service queries in GraphQL APIs.
+      Published the paper in DLSP2024, an IEEE S&P workshop.
+  - position: Project Manager
+    company_name: Helpcode
+    company_url: 'https://helpcode.org'
+    company_logo: 'https://www.helpcode.org/wp-content/uploads/2017/09/logo.png'
+    date_start: 2023-03-01
+    date_end: 2024-11-01
+    summary: |
+      Conceived and launched an educational platform that empowers 10–14-year-olds to apply computational thinking to real-world environmental challenges.
+      Secured a €279,973 grant, partnering with 10 associations, to fund platform development and outreach.
+      Led the team composed of a graphic designer, a storyteller and the development team, monitoring the tasks with Jira.
+      Presented to about 30 schoolteachers how to effectively use the platform in their lectures.
+  - position: Teaching Assistant and Program Coordinator
+    company_name: CINI Cybersecurity Lab UNICT Hub
+    company_url: 'PLACEHOLDER_URL'
+    company_logo: 'PLACEHOLDER_LOGO'
+    date_start: 2021-11-01
+    date_end: 2023-06-01
+    summary: |
+      Coordinated the CyberChallenge.IT program at the University of Catania, mentoring students in Cryptography (2022) and Network Security (2023).
+      Managed communication with central organisers and coordinated other local teaching assistants.
+      Successfully led the program to enhance students' skills in Cybersecurity fields.
+  - position: Research Engineer (Internship)
+    company_name: Robert Bosch GmbH
+    company_url: 'https://bosch.com'
+    company_logo: 'https://www.bosch.com/assets/images/bosch-logo.svg'
+    date_start: 2021-05-01
+    date_end: 2021-08-01
+    summary: |
+      Devised an approach based on the fuzzer Honggfuzz and the emulator QEMU to perform fuzzing over programs using shared memory IPC methods.
+      Evaluated the approach against the Eclipse Iceoryx IPC layer effectively finding undisclosed bugs.
+      Reported the results in my MSc dissertation "Shared Memory Fuzzing".
+  - position: Teaching Assistant
+    company_name: University of Catania
+    company_url: 'https://unict.it'
+    company_logo: 'https://www.unict.it/sites/default/files/logo_unict.png'
+    date_start: 2021-04-01
+    date_end: 2021-06-01
+    summary: |
+      Mentored and taught students in Internet Security, fostering critical thinking skills and empowering them to understand fundamental security properties, protocols, firewall configuration, and malware taxonomy.
+      Built test environments to perform web security attacks (SQL Injection, XSS), Firewall attacks (misconfigurations, CVE-2016-5410).
+  - position: Mobile App Engineer
+    company_name: Codedix
+    company_url: 'https://codedix.com'
+    company_logo: 'PLACEHOLDER_LOGO'
+    date_start: 2020-05-01
+    date_end: 2021-04-01
+    summary: |
+      Developed and launched 3 successful apps in app stores using Kotlin, Dart (Flutter), Swift, and Objective-C.
+      Utilised Firebase for database and storage capabilities to enhance app performance.
+      Collaborated with cross-functional teams to ensure seamless app development and delivery.
+  - position: Research Intern
+    company_name: Robert Bosch GmbH
+    company_url: 'https://bosch.com'
+    company_logo: 'https://www.bosch.com/assets/images/bosch-logo.svg'
+    date_start: 2020-10-01
+    date_end: 2020-12-01
+    summary: |
+      Conducted a comprehensive systematic review of 42 state-of-the-art embedded systems fuzzing papers and tools.
+      Developed a taxonomy classifying approaches as hardware-based, emulation-based, and abstraction-based.
+      Published the paper "Embedded Fuzzing: a review of challenges, tools, and solutions" in the Q1 "Cybersecurity" journal.
+  - position: Teaching Assistant
+    company_name: University of Catania
+    company_url: 'https://unict.it'
+    company_logo: 'https://www.unict.it/sites/default/files/logo_unict.png'
+    date_start: 2020-09-01
+    date_end: 2020-10-01
+    summary: |
+      Took in-depth lessons of the following modules: 1) Computer Science 101 (30 hours) – Programming Fundamentals, Flowcharts, 2) Programming 2 (30 hours) - OOP and Data Structures in C++, Complexity and Sorting Algorithms.
+      Designed and supervised programming exercises (both logical and practical) between courses.
+
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+# https://devicon.dev/
+#skills:
+#  - name: Programming Languages
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 80
+#        icon: devicon/python
+#      - name: C
+#        description: ''
+#        percent: 90
+#        icon: devicon/c
+#      - name: C++
+#        description: ''
+#        percent: 80
+#        icon: devicon/cplusplus
+#      - name: Java
+#        description: ''
+#        percent: 40
+#        icon: devicon/java
+#      - name: Kotlin
+#        description: ''
+#        percent: 60
+#        icon: devicon/kotlin
+#      - name: Swift
+#        description: ''
+#        percent: 60
+#        icon: devicon/swift
+#      - name: Rust
+#        description: ''
+#        percent: 40
+#        icon: devicon/rust
+ # - name: Machine Learning
+ #   items:
+ #     - name: Reinforcement Learning
+ #       description: ''
+ #       percent: 70
+ #       icon: brain
+ #     - name: Deep Learning
+ #       description: ''
+ #       percent: 70
+ #       icon: brain
+ #     - name: Federated Learning
+ #       description: ''
+ #       percent: 60
+ #       icon: brain
+# - name: Fuzzing Tools
+#    items:
+#      - name: AFL++
+#        description: ''
+#        percent: 95
+#      - name: Honggfuzz
+#        description: ''
+#        percent: 100
+#      - name: LibAFL
+#        description: ''
+#        percent: 50
+#      - name: Restler
+#        description: ''
+#        percent: 70
+#      - name: EvoMaster
+#        description: ''
+#        percent: 50
+
+#languages:
+#  - name: English
+#    percent: 90
+#  - name: Italian
+#    percent: 100
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Google Project Management Specification
+    url: https://coursera.org/share/e86d17af1a627b81c7f94e7a176f86e6
+    date: '2023-12-26'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Those who earn the Google Project Management Certificate have completed six courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Project Management. They are competent in initiating, planning and running both traditional and agile projects.
+  - title: Google Cybersecurity Specialization
+    url: https://coursera.org/share/6645cfab5cb73b47d44fb665fb43a1e6
+    date: '2023-11-28'
+    awarder: Coursera
+    icon: coursera
+    summary: | 
+      Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practicebased assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
+  - title: IELTS Academic 7.5
+    date: '2023-04-01'
+    awarder: British Council
+  - title: Cisco Routing & Switching Essentials
+    date: '2016-07-15'
+    awarder: Cisco
+  - title: Cisco Routing & Switching
+    date: '2016-01-12'
+    awarder: Cisco
+  - title: Cisco IT Essentials
+    date: '2014-06-20'
+    awarder: Cisco
+---
+
+## About Me
+
+**I am a PhD candidate in Computer Science at the University of Catania, Italy. My aim is to bring fuzzing to the next level by designing sophisticated techniques to automate the process of finding vulnerabilities in multiprocess systems.**

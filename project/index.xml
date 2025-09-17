@@ -1,99 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects | Marcello Maugeri</title>
-    <link>https://marcellomaugeri.github.io/project/</link>
-      <atom:link href="https://marcellomaugeri.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://marcellomaugeri.github.io/media/logo.svg</url>
-      <title>Projects</title>
-      <link>https://marcellomaugeri.github.io/project/</link>
-    </image>
-    
-    <item>
-      <title>*</title>
-      <link>https://marcellomaugeri.github.io/project/star/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/star/</guid>
-      <description>&lt;p&gt;The aim of the project is to design an efficient stateful fuzzing framework. The name is provisional. More details will be announced soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>α</title>
-      <link>https://marcellomaugeri.github.io/project/alpha/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/alpha/</guid>
-      <description>&lt;p&gt;The project aims to develop a fuzzing framework based on LibAFL for multi-process applications. The name is a placeholder and will be revealed after publication.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Offensive Reinforcement Learning for GraphQL</title>
-      <link>https://marcellomaugeri.github.io/project/rlgraphql/</link>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/rlgraphql/</guid>
-      <description>&lt;p&gt;The project aims to design offensive Reinforcement Learning agents to attack GraphQL APIs. The project is part of the research activities of the &lt;a href=&#34;https://github.com/isneslab&#34;&gt;iSNeS Lab&lt;/a&gt; at the King&amp;rsquo;s College London. Currently, Wendigo has been released for DoS attacks. The project is ongoing.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Fuzzing Matter(s)</title>
-      <link>https://marcellomaugeri.github.io/project/fuzzing-matter/</link>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/fuzzing-matter/</guid>
-      <description>&lt;p&gt;Leading the project based on the paper &amp;ldquo;Fuzzing Matter(s): A White Paper for Fuzzing the Matter Protocol&amp;rdquo;, which aims to perform stateful fuzzing of Matter-enabled device.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PECS - Privacy Enrooted Car Systems</title>
-      <link>https://marcellomaugeri.github.io/project/pecs/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/pecs/</guid>
-      <description>&lt;p&gt;The PECS project aims to develop a privacy-preserving system for automotive environments. My work has been concentrating on the PECSo module, in particular the Federated Learning module.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Water Code</title>
-      <link>https://marcellomaugeri.github.io/project/thewatercode/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/thewatercode/</guid>
-      <description>&lt;p&gt;Agile managed the educational platform within the &amp;ldquo;The Water Code&amp;rdquo; project. The platform was developed using Flutter and Firebase.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fantamaniaci (iOS)</title>
-      <link>https://marcellomaugeri.github.io/project/fantamaniaci/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/fantamaniaci/</guid>
-      <description>&lt;p&gt;Fantamaniaci was a football news app available in the app store, designed and developed by me in Swift as a freelancer in the Codedix team.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dragomanni Apartments Website</title>
-      <link>https://marcellomaugeri.github.io/project/dragomanni/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/dragomanni/</guid>
-      <description>&lt;p&gt;Designed and developed the website for the Dragomanni Apartments in Florence, Italy. The website was developed using WordPress.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Do a Shot (iOS)</title>
-      <link>https://marcellomaugeri.github.io/project/doashot/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/doashot/</guid>
-      <description>&lt;p&gt;Do a Shot was a drinking game available in the app store, redesigned and developed by me in Swift as a freelancer in the Codedix team.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Distantia</title>
-      <link>https://marcellomaugeri.github.io/project/distantia/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://marcellomaugeri.github.io/project/distantia/</guid>
-      <description>&lt;p&gt;Distantia is an iOS app that allows users to maintaining social distance during the Covid-19 pandemic through BLE RSSI distance estimation. The app was developed using Swift and patented by the University of Catania.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Marcello Maugeri</title><link>https://marcellomaugeri.github.io/project/</link><atom:link href="https://marcellomaugeri.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate><image><url>https://marcellomaugeri.github.io/media/logo.svg</url><title>Projects</title><link>https://marcellomaugeri.github.io/project/</link></image><item><title>Automated Testing of GraphQL APIs (ATG)</title><link>https://marcellomaugeri.github.io/project/graphql/</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/graphql/</guid><description>&lt;p>This project focuses on advancing automated security testing of GraphQL APIs through innovative research and tooling. We have developed and released two major research contributions that enhance GraphQL testing capabilities through different approaches.&lt;/p>
+&lt;h2 id="research-contributions">Research Contributions&lt;/h2>
+&lt;h3 id="wendigo-deep-reinforcement-learning-for-denial-of-service-query-discovery-in-graphql">Wendigo: Deep Reinforcement Learning for Denial-of-Service Query Discovery in GraphQL&lt;/h3>
+&lt;p>
+is a black-box Deep Reinforcement Learning approach that discovers Denial-of-Service exploitable queries against GraphQL applications. Using only the GraphQL schema, Wendigo can discover queries capable of performing DoS attacks with just two requests per hour, as opposed to the high volume required by traditional attacks.&lt;/p>
+&lt;h3 id="bengql-an-extensible-benchmarking-framework-for-automated-graphql-testing-ase-2025">BenGQL: An Extensible Benchmarking Framework for Automated GraphQL Testing (ASE 2025)&lt;/h3>
+&lt;p>
+is an extensible benchmarking framework containing 23 representative open-source GraphQL server applications. This framework enables rigorous evaluation of automated testing tools across different GraphQL engines and schema complexities.&lt;/p>
+&lt;h2 id="ongoing-research">Ongoing Research&lt;/h2>
+&lt;p>We are currently exploring advanced AI techniques, including Large Language Models, to further enhance GraphQL security testing capabilities. This research aims to develop more sophisticated and context-aware testing approaches.&lt;/p>
+&lt;h2 id="collaboration">Collaboration&lt;/h2>
+&lt;p>Interested in collaborating on GraphQL security research? We welcome partnerships with researchers and industry professionals working on API security, automated testing, and AI-driven security tools.&lt;/p></description></item><item><title>α</title><link>https://marcellomaugeri.github.io/project/alpha/</link><pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/alpha/</guid><description>&lt;p>The project aims to develop a fuzzing framework based on LibAFL for multi-process applications. The name is a placeholder and will be revealed after publication.&lt;/p></description></item><item><title>Eulibra</title><link>https://marcellomaugeri.github.io/project/eulibra/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/eulibra/</guid><description>&lt;p>
+is a sophisticated DeFi strategy framework that won &lt;strong>3rd Place&lt;/strong> in the &lt;strong>EulerSwap Builder Competition&lt;/strong>. The project tackles the complex challenge of market balancing strategies for uncorrelated asset pairs like WSTETH/USDC through innovative arbitrage and liquidity provision mechanisms.&lt;/p></description></item><item><title>PolyMirror.AI</title><link>https://marcellomaugeri.github.io/project/polymirror-ai/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/polymirror-ai/</guid><description>&lt;p>
+is a Web3 application that enables paying for AI services using cryptocurrency (POL) through EIP-712 vouchers. The project received &lt;strong>Honourable Mention&lt;/strong> in the &lt;strong>&amp;ldquo;Polygon Track&amp;rdquo;&lt;/strong> at the &lt;strong>Vibe Coding Hack by Encode&lt;/strong>.&lt;/p></description></item><item><title>LibAFLstar</title><link>https://marcellomaugeri.github.io/project/libaflstar/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/libaflstar/</guid><description>&lt;p>&lt;strong>LibAFLstar&lt;/strong> is a fast and state-aware protocol fuzzer that addresses the challenges of fuzzing stateful software systems. Unlike stateless approaches, LibAFLstar efficiently explores state models, focuses on interesting states, tracks relevant messages per state, and handles expensive system restarts.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Partial Message Sequences&lt;/strong>: Efficiently explores protocol state spaces&lt;/li>
+&lt;li>&lt;strong>Novel State Scheduler&lt;/strong>: Intelligently prioritizes states for testing&lt;/li>
+&lt;li>&lt;strong>State-Aware Queues and Bitmaps&lt;/strong>: Optimized data structures for stateful fuzzing&lt;/li>
+&lt;li>&lt;strong>Persistent Mode&lt;/strong>: Reduces overhead from system restarts&lt;/li>
+&lt;/ul>
+&lt;h2 id="performance">Performance&lt;/h2>
+&lt;p>Our evaluation shows that LibAFLstar is &lt;strong>more than 30× faster&lt;/strong> than state-of-the-art competitors (AFLNet and ChatAFL) and achieves &lt;strong>1.4× more coverage&lt;/strong> on average when testing protocol implementations (FTP, RTSP, and HTTP).&lt;/p>
+&lt;h2 id="publication">Publication&lt;/h2>
+&lt;p>This work has been accepted at &lt;strong>ESORICS 2025&lt;/strong> and is co-authored by Cristian Daniele, Timme Bethe, Marcello Maugeri, Andrea Continella, and Erik Poll.&lt;/p>
+&lt;h2 id="next-steps">Next Steps&lt;/h2>
+&lt;p>Current development focuses on improving the reproducibility of experimental results and expanding support for additional protocol types.&lt;/p>
+&lt;h2 id="get-involved">Get Involved&lt;/h2>
+&lt;p>Interested in contributing or collaborating? Feel free to
+or check out the
+for more details.&lt;/p></description></item><item><title>TonAIStark</title><link>https://marcellomaugeri.github.io/project/tonaistark/</link><pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/tonaistark/</guid><description>&lt;p>
+is an AI-powered DeFi assistant for StarkNet that won &lt;strong>2nd Place&lt;/strong> in the &lt;strong>&amp;ldquo;Starkware AI x DeFi&amp;rdquo; Track&lt;/strong> at the &lt;strong>Encode AI London 2025 Hackathon&lt;/strong>. Think JARVIS meets Web3 - an intelligent assistant that simplifies crypto interactions with clarity, confidence, and a touch of sarcasm.&lt;/p></description></item><item><title>Flare-FL</title><link>https://marcellomaugeri.github.io/project/flare-fl/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/flare-fl/</guid><description>&lt;p>
+is a decentralised Federated Learning (FL) framework built on the Flare blockchain, developed for ETHOxford 2025. The project won &lt;strong>Pool Prize&lt;/strong> in the &lt;strong>&amp;ldquo;Flare: Enshrined Data Protocols&amp;rdquo; Track&lt;/strong> and &lt;strong>Nerdo Awards&lt;/strong> in the &lt;strong>&amp;ldquo;DeSci World&amp;rdquo; Track&lt;/strong> for being the &amp;ldquo;most likely to disrupt&amp;rdquo; project.&lt;/p></description></item><item><title>Proteus</title><link>https://marcellomaugeri.github.io/project/proteus/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/proteus/</guid><description>&lt;p>
+is an LLM-powered lending agent for the Aave V3 protocol designed to automate and optimise lending strategies. The project won &lt;strong>1st Place&lt;/strong> in the &lt;strong>RNDM Agent Track&lt;/strong> at the &lt;strong>Encode London 2024 Hackathon&lt;/strong>.&lt;/p></description></item><item><title>Fuzzing Matter(s)</title><link>https://marcellomaugeri.github.io/project/fuzzing-matter/</link><pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/fuzzing-matter/</guid><description>&lt;p>Leading the project based on the paper &amp;ldquo;Fuzzing Matter(s): A White Paper for Fuzzing the Matter Protocol&amp;rdquo;, which aims to perform stateful fuzzing of Matter-enabled device.&lt;/p></description></item><item><title>PECS - Privacy Enrooted Car Systems</title><link>https://marcellomaugeri.github.io/project/pecs/</link><pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/pecs/</guid><description>&lt;p>People&amp;rsquo;s privacy control over the personal data that they generate and consume while they drive modern cars is extremely weak at present. There is historical as well as recent evidence that car brands harvest a variety of personal data from drivers and, arguably, full compliance of their processing with the European General Data Protection Regulation is questionable.&lt;/p>
+&lt;p>PECS revolutionises modern car ecosystems for what concerns the processing of personal data. It does so by advancing, tailoring to the specific domain and, ultimately, combining together both soft and hard privacy measures. The project raises drivers’ soft privacy through the PECS interface for static and dynamic control of personal data, so that drivers can decide what to share and with whom and when, as well as follow and control the flows of data at service run time by means of multy-sensory media techniques. Hard privacy thrives in the project through a combination of obfuscation techniques including Federated Analytics, Secure Multi Party Computation and Pseudonymisation, so that drivers are enabled to keep their personal data opaque to anyone from the outset. All developments proceed from the established academic laboratories of UNICT-UNIMORE, then are demonstrated in the operational environment of MASA-UNIMORE, reaching TRL7.&lt;/p>
+&lt;p>The PECS results stem from the open-source, open-Internet approaches, hence bear huge technical, societal and industrial impacts, bringing Europe at the forefront of data protection, at least in the automotive domain. PECS also brings forward a whole new range of business opportunities such as various forms of software support for its technologies, and of renewed car services leveraging privacy-by-design-by-default.&lt;/p>
+&lt;p>Finally, PECS provides the necessary grounds favouring the inception of a new breed of services that would be naturally enrooted on drivers’ sensitive data such as sexual, religious and political orientations, e.g. apps for dating, praying and debate on political topics.&lt;/p></description></item><item><title>The Water Code</title><link>https://marcellomaugeri.github.io/project/thewatercode/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/thewatercode/</guid><description>&lt;p>Agile managed the educational platform within the &amp;ldquo;The Water Code&amp;rdquo; project. The platform was developed using Flutter and Firebase.&lt;/p></description></item><item><title>Fantamaniaci (iOS)</title><link>https://marcellomaugeri.github.io/project/fantamaniaci/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/fantamaniaci/</guid><description>&lt;p>Fantamaniaci was a football news app available in the app store, designed and developed by me in Swift as a freelancer in the Codedix team.&lt;/p></description></item><item><title>Dragomanni Apartments Website</title><link>https://marcellomaugeri.github.io/project/dragomanni/</link><pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/dragomanni/</guid><description>&lt;p>Designed and developed the website for the Dragomanni Apartments in Florence, Italy. The website was developed using WordPress.&lt;/p></description></item><item><title>Do a Shot (iOS)</title><link>https://marcellomaugeri.github.io/project/doashot/</link><pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/doashot/</guid><description>&lt;p>Do a Shot was a drinking game available in the app store, redesigned and developed by me in Swift as a freelancer in the Codedix team.&lt;/p></description></item><item><title>Distantia</title><link>https://marcellomaugeri.github.io/project/distantia/</link><pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate><guid>https://marcellomaugeri.github.io/project/distantia/</guid><description>&lt;p>Distantia is an iOS app that allows users to maintaining social distance during the Covid-19 pandemic through BLE RSSI distance estimation. The app was developed using Swift and patented by the University of Catania.&lt;/p></description></item></channel></rss>
